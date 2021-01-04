@@ -1,0 +1,11 @@
+.one{
+    color: red;
+}
+#second{
+    border-style: solid;
+    border-color: cadetblue;
+    border-width: 5px;
+}
+li{
+    color: chocolate;
+}
